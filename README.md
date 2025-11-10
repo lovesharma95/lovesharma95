@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I'm Love Sharma,<br>A passionate Full Stack Developer with a focus on backend development and blockchain technology. With over 5 years of experience, I have a proven track record in building scalable, secure, and efficient systems.
+👋 Hello! I'm Love Sharma,<br>A passionate Full Stack Developer with a focus on backend development and blockchain technology. With over 6+ years of experience, I have a proven track record in building scalable, secure, and efficient systems.
 
 
 ## 🌐 Socials:
